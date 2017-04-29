@@ -1,0 +1,1 @@
+<div style="text-align:center;clear:both;"><object allowfullscreen="true" data="red_button.swf" height="200" type="application/x-shockwave-flash" width="300"><param name="movie" value="red_button.swf" /><param name="wmode" value="transparent" /><param name="allowFullScreen" value="true" /></object></div>
